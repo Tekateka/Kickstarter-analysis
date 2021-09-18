@@ -1,2 +1,2 @@
-# Kickstarter-analysis
+# Kickstarter-Analysis
 Analyzing the Kickstarter data 
