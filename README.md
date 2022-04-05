@@ -1,5 +1,3 @@
-# Kickstarter-Analysis
-Analyzing the Kickstarter data
 # Kickstarter Challenge 
 
 ## Overview of Project
@@ -16,6 +14,7 @@ The data were analysed on excel using PivotTable and line chart was created for 
 Based on the analysis the number of Successful outcomes was higher than failed and canceled outcomes.  
 May was the maximum (111) successful launched month in theater data. 
 
+![](Theater_Outcomes_vs_Launch.png)
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
@@ -26,6 +25,8 @@ May was the maximum (111) successful launched month in theater data.
 ### Analysis of Outcomes Based on Goals
 Number Successful, Failed and Canceled were populated Using COUNTIFS function from Goal amount and Subcatagory, play columns. Then percentage of each outcome was
 calculated. Finally, a line chart was created to visualize the relationship between the goal amount range and the percentage of successful, failed and canceled projects. 
+
+![](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 In line chart the value of x-axis from 0 to 14 was supposed to be the goal amount ranges. This was one of the challanges to reflect the goal amout ranges in x-axis. 
